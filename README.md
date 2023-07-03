@@ -67,6 +67,7 @@
 * [無人機侵犯金門領空　最該調整的是軍方高層腦袋](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=152919) 2022-08-30 上報
 * [曹興誠的浪漫之外　還要加上政府的力量](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=153569) 2022-09-07 上報
 * [誰像義和團？誰是汪精衛？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=153929) 2022-09-13 上報
+* [政治幕僚的五個守則](https://www.nownews.com/news/5933546) 2022-09-14 NOWnews
 * [重新定位國軍　將陸戰兵力分成三級](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=154479) 2022-09-20 上報
 * [普丁正在修建自己的陵墓　習大卻不想入坑](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=155041) 2022-09-27 上報
 * [論瞄具對步兵的重要性](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=155596) 2022-10-05 上報
@@ -74,35 +75,62 @@
 * [習大大的黨八股　透露一個不安的靈魂](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=156661) 2022-10-18 上報
 * [二十大後　習近平會加速武統嗎](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=157204) 2022-10-25 上報
 * [習近平那麼「民主」　馮小剛幹嘛要潤呢](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=157768) 2022-11-01 上報
+* [市長辯論能夠扭轉戰局嗎？](https://www.nownews.com/news/5962622) 2022-11-02 NOWnews
 * [「黑暗基輔」對台灣的啟示](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=158409) 2022-11-08 上報
+* [借問「貪」字怎麼寫?](https://www.nownews.com/news/5967211) 2022-11-09 NOWnews
 * [否認加入黃珊珊團隊　吳崑玉：柯文哲在那邊我幫不下去](https://www.upmedia.mg/news_info.php?Type=24&SerialNo=158821) 2022-11-11 上報
 * [候選人的職前訓練不能等](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=159077) 2022-11-15 上報
+* [小助理們的逆襲](https://www.nownews.com/news/5971708) 2022-11-16 NOWnews
 * [把太陽花偷換成嬰粟花──令人感慨的柯文哲與黃國昌](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=159667) 2022-11-22 上報
+* [可以含淚跳恰恰　千萬不要含淚去投票](https://www.nownews.com/news/5979102) 2022-11-23 NOWnews
 * [「抗中保台」被異化](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=160360) 2022-11-29 上報
 * [論文門是垃圾山　不是乳酪山](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=160859) 2022-12-06 上報
+* [民進黨真的崩潰了嗎?](https://www.nownews.com/news/5993992) 2022-12-07 NOWnews
 * [那些慷國防之慨的政治訴求──兼論四個月兵役的荒謬之處](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=161369) 2022-12-13 上報
+* [百善「笑」為先　萬惡「贏」為首](https://www.nownews.com/news/6001399) 2022-12-14 NOWnews
 * [一年制兵役的另一種解方](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=161908) 2022-12-20 上報
+* [綠營仍未脫離1126後的PTSD](https://www.nownews.com/news/6011544) 2022-12-27 NOWnews
 * [在野黨本就不能缺席國防兵役制度討論](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=162402) 2022-12-27 上報
 * [辯正幾項本島防衛作戰的謬論](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=163018) 2023-01-04 上報
+* [切莫陷入無窮輪迴的忠奸之辯](https://www.nownews.com/news/6032169) 2023-01-18 NOWnews
 * [寫在吳怡農敗選後：做自己不一定成功，但失去自我一定失敗](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=163536) 2023-01-10 上報
 * [俄式城鎮戰對台灣的啟示](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=164206) 2023-01-18 上報
 * [台海會在2025年開戰嗎](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=164733) 2023-02-01 上報
+* [舊瓶舊酒又如何](https://www.nownews.com/news/6041827) 2023-02-01 NOWnews
 * [美國應處中國間諜氣球有深意](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=165273) 2023-02-07 上報
+* [關於副總統這個職位](https://www.nownews.com/news/6048241) 2023-02-08 NOWnews
+* [發言人不是什麼好差事](https://www.nownews.com/news/6061581) 2023-02-22 NOWnews
+* [郭董的情人節](https://www.nownews.com/news/6054789) 2023-02-15 NOWnews
 * [台灣有事　菲律賓也會有事](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=165857) 2023-02-15 上報
 * [美國保衛台灣的戰略構想](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=166343) 2023-02-21 上報
 * [戰時管制媒體網路，有錯嗎？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=166879) 2023-02-28 上報
+* [等待果陀，等不等果凍？](https://www.nownews.com/news/6067858) 2023-03-01 NOWnews
 * [《全動法》與《民防法》必須全部砍掉重練](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=167323) 2023-03-07 上報
+* [就讓王聖人再出來玩一次吧！](https://www.nownews.com/news/6074669) 2023-03-08 NOWnews
 * [跑了一個金門伙房兵之後](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=167907) 2023-03-14 上報
+* [侯爺要不要去上一堂「共好」課?](https://www.nownews.com/news/6081607) 2023-03-15 NOWnews
 * [大國勢力範圍的謊言──也談反戰教授們的假道學](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=168394) 2023-03-21 上報
 * [「疑美論」是個問題　但更大的問題是「賴美論」](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=169028) 2023-03-28 上報
+* [敷欺狒片中的官場現形記](https://www.nownews.com/news/6096000) 2023-03-29 NOWnews
+* [「芯費大戰」成廉價娛樂](https://www.nownews.com/news/6101937) 2023-04-05 NOWnews
 * [和平只在飛彈射程之內──中共對台軍演的虛與實](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=169982) 2023-04-11 上報
+* [若再執迷於虛無的兩岸論述　國民黨便徹底沒救](https://www.nownews.com/news/6108742) 2023-04-12 NOWnews
 * [台灣有那麼容易喪失制空權嗎？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=170479) 2023-04-18 上報
+* [從一開始就走錯路的國民黨總統提名之路](https://www.nownews.com/news/6115260) 2023-04-19 NOWnews
 * [狼的傳人名沙野　崖山之後無中國](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=171193) 2023-04-26 上報
+* [大位不以智取　決定者不是天命而是信譽](https://www.nownews.com/news/6122234) 2023-04-26 NOWnews
 * [郭董別說外行話　科技島與彈藥島可以並存](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=171595) 2023-05-02 上報
+* [威權幽靈始終盤據在政治領袖們的腦中](https://www.nownews.com/news/6128492) 2023-05-03 NOWnews
 * [8萬機器人負責本島防衛作戰未必是個笑話](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=172118) 2023-05-09 上報
+* [戰爭不是好東西　和平沒有便宜貨](https://www.nownews.com/news/6135374) 2023-05-10 NOWnews
+* [朱立倫心底最大的恐懼](https://www.nownews.com/news/6142242) 2023-05-17 NOWnews
 * [烏克蘭組建一萬名無人機部隊　台灣呢](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=173251) 2023-05-23 上報
+* [若想贏得總統勝選　侯友宜民調還得過五關](https://www.nownews.com/news/6148995) 2023-05-24 NOWnews
+* [18趴的變奏曲](https://www.nownews.com/news/6156089) 2023-05-31 NOWnews
 * [台灣需要更明確的國家戰略](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=174342) 2023-06-06 上報
+* [權力是最好的春藥　更是穿腸的瀉藥](https://www.nownews.com/news/6162878) 2023-06-07 NOWnews
 * [柯文哲的網路戰是挑釁　不是作戰](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=174824) 2023-06-13 上報
+* [侯友宜憑什麼？](https://www.nownews.com/news/6176289) 2023-06-21 NOWnews
 * [每個總統參選人都要「備戰」　那到底是誰在「引戰」？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=175533) 2023-06-21 上報
 * [KP到底跟狗有什麼過節？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=175979) 2023-- 上報
 * []() 2023-- 上報
