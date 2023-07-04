@@ -87,6 +87,7 @@
 * [中國能拿立陶宛怎麼著](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=131105) 2021-11-30 上報
 * [向暴力說不之前　早該揭穿騙子嘴臉](https://www.nownews.com/news/5460232) 2021-12-01 NOWnews
 * [「炒米粉」還加菜加料　代表候選人內心很深的恐懼](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=131723) 2021-12-06 上報
+* [請給「人脈」二字留一點最起碼的尊嚴](https://www.nownews.com/news/5468045) 2021-12-08 NOWnews
 * [把責任推給網軍　為自己失敗找藉口](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=132391) 2021-12-14 上報
 * [公投只是奶泡　問題是如何泡出好咖啡](https://www.nownews.com/news/5475398) 2021-12-15 NOWnews
 * [台灣政壇家暴利器之首─馬牌不沾鍋](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=132768) 2021-12-17 上報
