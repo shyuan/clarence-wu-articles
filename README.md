@@ -140,7 +140,6 @@
 * [市長辯論能夠扭轉戰局嗎？](https://www.nownews.com/news/5962622) 2022-11-02 NOWnews
 * [「黑暗基輔」對台灣的啟示](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=158409) 2022-11-08 上報
 * [借問「貪」字怎麼寫?](https://www.nownews.com/news/5967211) 2022-11-09 NOWnews
-* [否認加入黃珊珊團隊　吳崑玉：柯文哲在那邊我幫不下去](https://www.upmedia.mg/news_info.php?Type=24&SerialNo=158821) 2022-11-11 上報
 * [候選人的職前訓練不能等](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=159077) 2022-11-15 上報
 * [小助理們的逆襲](https://www.nownews.com/news/5971708) 2022-11-16 NOWnews
 * [把太陽花偷換成嬰粟花──令人感慨的柯文哲與黃國昌](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=159667) 2022-11-22 上報
