@@ -18,6 +18,7 @@
 * [疫苗之役所透露的政治訊號](https://www.nownews.com/news/5288611) 2021-06-06 NOWnews
 * [疫戰中的將道](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=115460) 2021-06-10 上報
 * [好心肝裡的爛長官](https://www.nownews.com/news/5295093) 2021-06-13 NOWnews
+* [一場沒有贏家的疫苗之戰](https://www.nownews.com/news/5301566) 2021-06-20 NOWnews
 * [明明只是風箏　柯文哲卻以為自己是噴射機](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=116888) 2021-06-26 上報
 * [台美TIFA會談只是個好的起點](https://www.nownews.com/news/5315610) 2021-07-05 NOWnews
 * [一切危機都從柯P「只想證明自己很行」開始](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=117932) 2021-07-07 上報
