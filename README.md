@@ -2,6 +2,7 @@
 
 * [國民黨新任黨主席的四個難題](https://www.nownews.com/news/3967635) 2020-03-04 NOWnews
 * [楚長青的背影](https://www.nownews.com/news/4012948) 2020-03-31 NOWnews
+* [有言不信，尚口乃窮」的中共大外宣](https://www.nownews.com/news/4059657) 2020-04-29 NOWnews
 * [巨嬰台灣該長大了](https://www.nownews.com/news/5007210) 2020-05-13 NOWnews
 * [蔡英文第二任總統的挑戰與期待](https://www.nownews.com/news/5009837) 2020-05-19 NOWnews
 * [撕去香港「一國兩制」的外衣](https://www.nownews.com/news/5013097) 2020-05-27 NOWnews
