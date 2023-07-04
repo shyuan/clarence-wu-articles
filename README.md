@@ -1,6 +1,7 @@
 # 吳崑玉文集
 
 * [國民黨新任黨主席的四個難題](https://www.nownews.com/news/3967635) 2020-03-04 NOWnews
+* [防疫作戰：開闢第二戰場，長期抗戰！](https://www.nownews.com/news/3991281) 2020-03-18 NOWnews
 * [楚長青的背影](https://www.nownews.com/news/4012948) 2020-03-31 NOWnews
 * [台灣需要建立足夠的「嚇阻戰略」能量](https://www.nownews.com/news/4036516) 2020-04-15 NOWnews
 * [有言不信，尚口乃窮」的中共大外宣](https://www.nownews.com/news/4059657) 2020-04-29 NOWnews
