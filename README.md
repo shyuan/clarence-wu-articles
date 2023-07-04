@@ -64,6 +64,7 @@
 * [拋開兩岸背後靈　國民黨才能走出安寧病房](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=123649) 2021-09-07 上報
 * [升格直轄市不是縣市發展的唯一出路](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=124338) 2021-09-14 上報
 * [想要年輕票　就別對年輕人說教](https://www.nownews.com/news/5374617) 2021-09-08 NOWnews
+* [應重新為台灣劃定心理的「紅線」](https://www.nownews.com/news/5381819) 2021-09-15 NOWnews
 * [人設已經定型　朱立倫還有機會打通任督二脈嗎](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=125521) 2021-09-28 上報
 * [老藍男們的「歸因謬誤」](https://www.nownews.com/news/5394957) 2021-09-29 NOWnews
 * [楊寶楨的話很寫實：人人都該自我評估，如果兩岸統一會不會被清算？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=126135) 2021-10-05 上報
