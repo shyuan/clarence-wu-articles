@@ -85,6 +85,7 @@
 * [中國核武能力成長迅速　美國國會擔憂溢於言表](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=130500) 2021-11-24 上報
 * [同舟還是「同粥」？國民黨無解的難題](https://www.nownews.com/news/5452684) 2021-11-24 NOWnews
 * [中國能拿立陶宛怎麼著](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=131105) 2021-11-30 上報
+* [向暴力說不之前　早該揭穿騙子嘴臉](https://www.nownews.com/news/5460232) 2021-12-01 NOWnews
 * [「炒米粉」還加菜加料　代表候選人內心很深的恐懼](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=131723) 2021-12-06 上報
 * [把責任推給網軍　為自己失敗找藉口](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=132391) 2021-12-14 上報
 * [公投只是奶泡　問題是如何泡出好咖啡](https://www.nownews.com/news/5475398) 2021-12-15 NOWnews
