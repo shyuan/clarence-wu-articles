@@ -83,6 +83,7 @@
 * [2022是2024的前哨戰，你確定？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=129888) 2021-11-16 上報
 * [掄棒毆人又砸車　為何治安淪為空談？](https://www.nownews.com/news/5445379) 2021-11-17 NOWnews
 * [中國核武能力成長迅速　美國國會擔憂溢於言表](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=130500) 2021-11-24 上報
+* [同舟還是「同粥」？國民黨無解的難題](https://www.nownews.com/news/5452684) 2021-11-24 NOWnews
 * [中國能拿立陶宛怎麼著](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=131105) 2021-11-30 上報
 * [「炒米粉」還加菜加料　代表候選人內心很深的恐懼](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=131723) 2021-12-06 上報
 * [把責任推給網軍　為自己失敗找藉口](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=132391) 2021-12-14 上報
