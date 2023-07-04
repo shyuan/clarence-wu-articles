@@ -13,7 +13,7 @@
 * [再論後備動員與民防救災的差別](https://www.nownews.com/news/5250200) 2021-04-18 NOWnews
 * [「警蟑」事件的反思：息事寧人等於飲鴆止渴](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=112369) 2021-05-05 上報
 * [該槍斃的到底是誰？](https://www.nownews.com/news/5266438) 2021-05-14 NOWnews
-* [反認知戰是個燒腦的技術活兒](https://www.nownews.com/news/5278198) 2021-05-26
+* [反認知戰是個燒腦的技術活兒](https://www.nownews.com/news/5278198) 2021-05-26 NOWnews
 * [該是蔡總統出馬指揮的時候了](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=114442) 2021-05-28 上報
 * [疫苗之役所透露的政治訊號](https://www.nownews.com/news/5288611) 2021-06-06 NOWnews
 * [疫戰中的將道](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=115460) 2021-06-10 上報
