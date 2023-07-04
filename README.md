@@ -93,6 +93,7 @@
 * [台灣政壇家暴利器之首─馬牌不沾鍋](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=132768) 2021-12-17 上報
 * [國民黨為什麼老是小贏大輸](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=133055) 2021-12-21 上報
 * [縣市合併易筋動骨　載舟覆舟所宜深慎](https://www.nownews.com/news/5483156) 2021-12-22 NOWnews
+* [後2021年的政治氣候](https://www.nownews.com/news/5490745) 2021-12-29 NOWnews
 * [共產黨沒有契約精神　台灣能跟它談什麼](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=134212) 2022-01-04 上報
 * [國民黨要再戰一場「罷朱」了嗎](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=134859) 2022-01-11 上報
 * [台灣很多事不如人意　但千萬不要絕望](https://www.nownews.com/news/5684893) 2022-01-12 NOWnews
