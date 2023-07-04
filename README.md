@@ -7,6 +7,7 @@
 * [台灣必須面對的三個戰略問題](https://www.nownews.com/news/5030017) 2020-07-08 NOWnews
 * [習大大心中真正的敵人叫作改革開放](https://www.nownews.com/news/5044307) 2020-08-11 NOWnews
 * [抗美援朝的宣傳與真實](https://www.nownews.com/news/5097027) 2020-10-28 NOWnews
+* [歲末年終　歸零思考政黨的定位與議程](https://www.nownews.com/news/5133532) 2020-12-09 NOWnews
 * [2020的三個教訓](https://www.nownews.com/news/5145856) 2020-12-23 NOWnews
 * [高雄也可以這麼美！](https://www.nownews.com/news/5157822) 2021-01-06 NOWnews
 * [拜登最大的敵人](https://www.nownews.com/news/5170195) 2021-01-21 NOWnews
