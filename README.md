@@ -7,6 +7,7 @@
 * [台灣必須面對的三個戰略問題](https://www.nownews.com/news/5030017) 2020-07-08 NOWnews
 * [習大大心中真正的敵人叫作改革開放](https://www.nownews.com/news/5044307) 2020-08-11 NOWnews
 * [抗美援朝的宣傳與真實](https://www.nownews.com/news/5097027) 2020-10-28 NOWnews
+* [一個死老百姓對修憲的期許](https://www.nownews.com/news/5226146) 2021-03-31 NOWnews
 * [台鐵組織文化爛到底　這幾年故事可多了](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=110381) 2021-04-08 上報
 * [馬英九掉進的「馬邦德陷阱」](https://www.nownews.com/news/5238231) 2021-04-14 NOWnews
 * [從後勤角度推算共軍攻台的合理劇本](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=111329) 2021-04-22 上報
