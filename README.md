@@ -201,7 +201,7 @@
 * [侯友宜憑什麼？](https://www.nownews.com/news/6176289) 2023-06-21 NOWnews
 * [每個總統參選人都要「備戰」　那到底是誰在「引戰」？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=175533) 2023-06-21 上報
 * [KP到底跟狗有什麼過節？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=175979) 2023-06-28 上報
-* [重啟服貿貨貿　最開心的就是兩岸買辦](https://www.nownews.com/news/6182037) 2023-06-28
+* [重啟服貿貨貿　最開心的就是兩岸買辦](https://www.nownews.com/news/6182037) 2023-06-28 NOWnews
 * []() 2023-- 上報
 * []() 2023-- 上報
 * []() 2023-- 上報
