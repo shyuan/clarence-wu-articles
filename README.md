@@ -49,6 +49,7 @@
 * [台美TIFA會談只是個好的起點](https://www.nownews.com/news/5315610) 2021-07-05 NOWnews
 * [一切危機都從柯P「只想證明自己很行」開始](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=117932) 2021-07-07 上報
 * [愛吃銅板愛吃炮　柯Ｐ早已成虎爺](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=118608) 2021-07-14 上報
+* [柯P能夠「藉疫翻身」嗎？](https://www.nownews.com/news/5325516) 2021-07-14 NOWnews
 * [柯Ｐ的胸襟視野才是追逐大位最大的障礙](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=119090) 2021-07-20 上報
 * [河南災變—相信政府相信黨是會致命的](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=119750) 2021-07-27 上報
 * [「蹭」也是一種技術活兒](https://www.nownews.com/news/5339088) 2021-07-28 NOWnews
