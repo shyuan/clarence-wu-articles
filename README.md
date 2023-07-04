@@ -5,6 +5,7 @@
 * [蔡英文第二任總統的挑戰與期待](https://www.nownews.com/news/5009837) 2020-05-19 NOWnews
 * [兩岸買辦的前世與今生](https://www.nownews.com/news/5024061) 2020-06-24 NOWnews
 * [台灣必須面對的三個戰略問題](https://www.nownews.com/news/5030017) 2020-07-08 NOWnews
+* [最具戰略眼光與思維縱深的李登輝](https://www.nownews.com/news/5039638) 2020-07-31 NOWnews
 * [習大大心中真正的敵人叫作改革開放](https://www.nownews.com/news/5044307) 2020-08-11 NOWnews
 * [誰來填補泛藍的權力真空？](https://www.nownews.com/news/5048114) 2020-08-19 NOWnews
 * [劃定台灣的紅線](https://www.nownews.com/news/5053530) 2020-09-02 NOWnews
