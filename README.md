@@ -10,7 +10,7 @@
 * [台鐵組織文化爛到底　這幾年故事可多了](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=110381) 2021-04-08 上報
 * [馬英九掉進的「馬邦德陷阱」](https://www.nownews.com/news/5238231) 2021-04-14 NOWnews
 * [從後勤角度推算共軍攻台的合理劇本](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=111329) 2021-04-22 上報
-* [再論後備動員與民防救災的差別](https://www.nownews.com/news/5250200) 2021-04-18 NOWnews
+* [再論後備動員與民防救災的差別](https://www.nownews.com/news/5250200) 2021-04-28 NOWnews
 * [「警蟑」事件的反思：息事寧人等於飲鴆止渴](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=112369) 2021-05-05 上報
 * [該槍斃的到底是誰？](https://www.nownews.com/news/5266438) 2021-05-14 NOWnews
 * [反認知戰是個燒腦的技術活兒](https://www.nownews.com/news/5278198) 2021-05-26 NOWnews
