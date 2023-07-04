@@ -3,6 +3,7 @@
 * [國民黨新任黨主席的四個難題](https://www.nownews.com/news/3967635) 2020-03-04 NOWnews
 * [楚長青的背影](https://www.nownews.com/news/4012948) 2020-03-31 NOWnews
 * [蔡英文第二任總統的挑戰與期待](https://www.nownews.com/news/5009837) 2020-05-19 NOWnews
+* [撕去香港「一國兩制」的外衣](https://www.nownews.com/news/5013097) 2020-05-27 NOWnews
 * [危機領導人更需逆思考](https://www.nownews.com/news/5018380) 2020-06-10 NOWnews
 * [兩岸買辦的前世與今生](https://www.nownews.com/news/5024061) 2020-06-24 NOWnews
 * [台灣必須面對的三個戰略問題](https://www.nownews.com/news/5030017) 2020-07-08 NOWnews
