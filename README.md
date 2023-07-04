@@ -56,6 +56,7 @@
 * [這場奧運為台灣社會「洗三觀」](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=120456) 2021-08-03 上報
 * [小粉紅是種帶著詛咒的喪屍病毒](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=121096) 2021-08-10 上報
 * [https://www.upmedia.mg/news_info.php?Type=2&SerialNo=121703](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=121703) 2021-08-17 上報
+* [藍營部落長老們的阿富汗惡夢](https://www.nownews.com/news/5359742) 2021-08-18 NOWnews
 * [令人掉淚的藍營823嘴砲](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=122347) 2021-08-23 上報
 * [阿富汗的鴉片戰爭](https://www.nownews.com/news/5365995) 2021-08-25 NOWnews
 * [美軍阿富汗潰敗是怎麼發生的？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=122998) 2021-08-31 上報
