@@ -6,6 +6,7 @@
 * [兩岸買辦的前世與今生](https://www.nownews.com/news/5024061) 2020-06-24 NOWnews
 * [台灣必須面對的三個戰略問題](https://www.nownews.com/news/5030017) 2020-07-08 NOWnews
 * [習大大心中真正的敵人叫作改革開放](https://www.nownews.com/news/5044307) 2020-08-11 NOWnews
+* [中國敢跟美國開戰嗎？](https://www.nownews.com/news/5085120) 2020-10-14 NOWnews
 * [抗美援朝的宣傳與真實](https://www.nownews.com/news/5097027) 2020-10-28 NOWnews
 * [「戰略清晰」不見得利大於弊](https://www.nownews.com/news/5109379) 2020-11-11 NOWnews
 * [「挑釁」的定義](https://www.nownews.com/news/5121160) 2020-11-25 NOWnews
