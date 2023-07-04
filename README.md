@@ -6,6 +6,7 @@
 * [兩岸買辦的前世與今生](https://www.nownews.com/news/5024061) 2020-06-24 NOWnews
 * [台灣必須面對的三個戰略問題](https://www.nownews.com/news/5030017) 2020-07-08 NOWnews
 * [習大大心中真正的敵人叫作改革開放](https://www.nownews.com/news/5044307) 2020-08-11 NOWnews
+* [誰來填補泛藍的權力真空？](https://www.nownews.com/news/5048114) 2020-08-19 NOWnews
 * [劃定台灣的紅線](https://www.nownews.com/news/5053530) 2020-09-02 NOWnews
 * [酒店的兩岸劇本，像極了不正常的愛情](https://www.nownews.com/news/5061136) 2020-09-16 NOWnews
 * [政府應在現實條件下考慮後備兵力整建](https://www.nownews.com/news/5072981) 2020-09-30 NOWnews
