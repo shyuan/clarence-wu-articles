@@ -7,6 +7,7 @@
 * [台灣必須面對的三個戰略問題](https://www.nownews.com/news/5030017) 2020-07-08 NOWnews
 * [習大大心中真正的敵人叫作改革開放](https://www.nownews.com/news/5044307) 2020-08-11 NOWnews
 * [抗美援朝的宣傳與真實](https://www.nownews.com/news/5097027) 2020-10-28 NOWnews
+* [高雄也可以這麼美！](https://www.nownews.com/news/5157822) 2021-01-06 NOWnews
 * [拜登最大的敵人](https://www.nownews.com/news/5170195) 2021-01-21 NOWnews
 * [政治老人們的老梗　讓人不耐](https://www.nownews.com/news/5181516) 2021-02-03 NOWnews
 * [對農民的嘲諷，是國民黨最深沈的悲哀](https://www.nownews.com/news/5202017) 2021-03-03 NOWnews
