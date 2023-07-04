@@ -75,6 +75,7 @@
 * [政治偵防源遠流長　有誰能抗拒這種必要之惡](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=127326) 2021-10-19 上報
 * [台灣真的脫離威權心態了嗎？](https://www.nownews.com/news/5416166) 2021-10-20 NOWnews
 * [為什麼政治人物總喜歡用「恨」來動員](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=127936) 2021-10-26 上報
+* [罷昶？罷昶？應是綠肥藍瘦！](https://www.nownews.com/news/5423355) 2021-10-27 NOWnews
 * [公投的後座力將撞得藍綠兩黨渾身黑青](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=128597) 2021-11-02 上報
 * [台灣人對共產黨很冷　是心寒的冷不是恐懼的冷](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=129234) 2021-11-09 上報
 * [中二選區陸空決戰 恐現阿富汗式結局](https://www.nownews.com/news/5437919) 2021-11-10 NOWnews
