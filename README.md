@@ -95,15 +95,16 @@
 * [縣市合併易筋動骨　載舟覆舟所宜深慎](https://www.nownews.com/news/5483156) 2021-12-22 NOWnews
 * [後2021年的政治氣候](https://www.nownews.com/news/5490745) 2021-12-29 NOWnews
 * [共產黨沒有契約精神　台灣能跟它談什麼](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=134212) 2022-01-04 上報
+* [柯P的困獸之鬥](https://www.nownews.com/news/5677151) 2022-01-05 NOWnews
 * [國民黨要再戰一場「罷朱」了嗎](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=134859) 2022-01-11 上報
 * [台灣很多事不如人意　但千萬不要絕望](https://www.nownews.com/news/5684893) 2022-01-12 NOWnews
 * [《千萬別抬頭》讓人笑著笑著就哭了](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=135505) 2022-01-18 上報
-* [福島食品開放否？請用科學說服我](https://www.nownews.com/news/5692191) 2022-01-19
+* [福島食品開放否？請用科學說服我](https://www.nownews.com/news/5692191) 2022-01-19 NOWnews
 * [這場經國寺裡的桌頭爭奪戰](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=136224) 2022-01-25 上報
 * [北京冬奧開幕　台灣卻聽見雪落下的聲音](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=137022) 2022-02-09 上報
 * [2022既是新人的機會　也是小黨的挑戰](https://www.nownews.com/news/5710585) 2022-02-09 NOWnews
 * [應對烏克蘭局勢　拜登一如當年的張伯倫](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=137543) 2022-02-15 上報
-* [為謝龍介感到不值](https://www.nownews.com/news/5717628) 2022-02-16
+* [為謝龍介感到不值](https://www.nownews.com/news/5717628) 2022-02-16 NOWnews
 * [柯P的總統夢終究只是南柯一夢](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=138108) 2022-02-22 上報
 * [國民黨是怎麼淪為小三的？](https://www.nownews.com/news/5724904) 2022-02-23
 * [「芬蘭化」也是鐵跟血打出來的　天龍藍別急著拿來洗地](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=138695) 2022-03-01 上報
