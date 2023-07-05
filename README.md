@@ -168,6 +168,7 @@
 * [重新定位國軍　將陸戰兵力分成三級](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=154479) 2022-09-20 上報
 * [菁英傲慢何時了？學霸誰人鳥？](https://www.nownews.com/news/5937328) 2022-09-21 NOWnews
 * [普丁正在修建自己的陵墓　習大卻不想入坑](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=155041) 2022-09-27 上報
+* [就讓子彈再飛一會兒吧！](https://www.nownews.com/news/5941559) 2022-09-28 NOWnews
 * [論瞄具對步兵的重要性](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=155596) 2022-10-05 上報
 * [炫耀與驕傲　才是政治神壇崩塌的主因](https://www.nownews.com/news/5946071) 2022-10-05 NOWnews
 * [蔡英文的「韌性」與柯文哲的「任性」](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=156149) 2022-10-11 上報
