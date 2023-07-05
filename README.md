@@ -120,6 +120,7 @@
 * [俄羅斯為何會在這場「認知戰」中丟盔棄甲](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=141583) 2022-04-05 上報
 * [我們將面對一場看不見敵人的遙控戰爭](https://www.nownews.com/news/5767121) 2022-04-06 NOWnews
 * [別再開著價格上億的兩棲突擊車去送便當──再思考民防系統建置](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=142085) 2022-04-12 上報
+* [異哉！所謂「終戰指導」！](https://www.nownews.com/news/5774035) 2022-04-13 NOWnews
 * [厭戰反戰　當然編不出一本好的「全民國防手冊」](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=142749) 2022-04-20 上報
 * [老習最寒冷的春天](https://www.nownews.com/news/5780975) 2022-04-20 NOWnews
 * [致候選人們──你需要的是清楚頭腦　而非光鮮外貌](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=143193) 2022-04-26 上報
