@@ -175,7 +175,7 @@
 * [論好感度在三腳督中的作用](https://www.nownews.com/news/5950134) 2022-10-12 NOWnews
 * [習大大的黨八股　透露一個不安的靈魂](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=156661) 2022-10-18 上報
 * [勘災？坐鎮？誰該負責？誰在作秀？](https://www.nownews.com/news/5954459) 2022-10-19 NOWnews
-* [被架離的不只是胡錦濤　而是黃金十年](https://www.nownews.com/news/5956978) 2022-10-24
+* [被架離的不只是胡錦濤　而是黃金十年](https://www.nownews.com/news/5956978) 2022-10-24 NOWnews
 * [二十大後　習近平會加速武統嗎](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=157204) 2022-10-25 上報
 * [習近平那麼「民主」　馮小剛幹嘛要潤呢](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=157768) 2022-11-01 上報
 * [市長辯論能夠扭轉戰局嗎？](https://www.nownews.com/news/5962622) 2022-11-02 NOWnews
