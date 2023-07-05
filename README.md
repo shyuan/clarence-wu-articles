@@ -124,6 +124,7 @@
 * [厭戰反戰　當然編不出一本好的「全民國防手冊」](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=142749) 2022-04-20 上報
 * [老習最寒冷的春天](https://www.nownews.com/news/5780975) 2022-04-20 NOWnews
 * [致候選人們──你需要的是清楚頭腦　而非光鮮外貌](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=143193) 2022-04-26 上報
+* [各位長官政策口號出檯前做過演習嗎？](https://www.nownews.com/news/5787641) 2022-04-27 NOWnews
 * [楊志良數學與柯文哲醫學　神風式政治攻防可以休矣](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=143755) 2022-05-03 上報
 * [台灣政壇需要的是更多「工業頭腦」](https://www.nownews.com/news/5794286) 2022-05-04 NOWnews
 * [老美要我們「不對稱」作戰　台灣準備好了嗎](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=144230) 2022-05-10 上報
