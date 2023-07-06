@@ -1,5 +1,6 @@
 # 吳崑玉文集
 
+* [病毒與口罩：喧囂聲中的一些危機處理概念](https://www.setn.com/News.aspx?NewsID=679989) 2020-01-30 三立新聞網
 * [肺炎疫情失控，政府做好預案嚴陣以待](https://www.nownews.com/news/3925363) 2020-02-08 NOWnews
 * [吳斯懷們是怎麼養成的？](https://www.nownews.com/news/3948904) 2020-02-21 NOWnews
 * [國民黨新任黨主席的四個難題](https://www.nownews.com/news/3967635) 2020-03-04 NOWnews
@@ -231,6 +232,7 @@
 * [「芯費大戰」成廉價娛樂](https://www.nownews.com/news/6101937) 2023-04-05 NOWnews
 * [和平只在飛彈射程之內──中共對台軍演的虛與實](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=169982) 2023-04-11 上報
 * [若再執迷於虛無的兩岸論述　國民黨便徹底沒救](https://www.nownews.com/news/6108742) 2023-04-12 NOWnews
+* [誰包圍誰啊？解讀山東艦的戰力及軍演位置](https://www.setn.com/News.aspx?NewsID=1278691) 2023-04-12 三立新聞網
 * [台灣有那麼容易喪失制空權嗎？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=170479) 2023-04-18 上報
 * [從一開始就走錯路的國民黨總統提名之路](https://www.nownews.com/news/6115260) 2023-04-19 NOWnews
 * [狼的傳人名沙野　崖山之後無中國](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=171193) 2023-04-26 上報
@@ -241,12 +243,14 @@
 * [8萬機器人負責本島防衛作戰未必是個笑話](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=172118) 2023-05-09 上報
 * [戰爭不是好東西　和平沒有便宜貨](https://www.nownews.com/news/6135374) 2023-05-10 NOWnews
 * [朱立倫心底最大的恐懼](https://www.nownews.com/news/6142242) 2023-05-17 NOWnews
+* [侯爺和柯P…誰會變成「小三」](https://www.setn.com/News.aspx?NewsID=1296894) 2023-05-18 三立新聞網
 * [政黨本是「人與人的連結」 政治精算師朱立倫沒算到的「無形資產」](https://www.cmmedia.com.tw/home/articles/40170) 2023-05-19 信傳媒
 * [烏克蘭組建一萬名無人機部隊　台灣呢](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=173251) 2023-05-23 上報
 * [若想贏得總統勝選　侯友宜民調還得過五關](https://www.nownews.com/news/6148995) 2023-05-24 NOWnews
 * [18趴的變奏曲](https://www.nownews.com/news/6156089) 2023-05-31 NOWnews
 * [台灣需要更明確的國家戰略](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=174342) 2023-06-06 上報
 * [權力是最好的春藥　更是穿腸的瀉藥](https://www.nownews.com/news/6162878) 2023-06-07 NOWnews
+* [為什麼「老三盒餐」會變當日侯友宜主新聞？](https://www.setn.com/News.aspx?NewsID=1306139) 2023-06-08 三立新聞網
 * [喝酒出大事？ 閒話家常聊「斷片」](https://www.cmmedia.com.tw/home/articles/40544) 2023-06-09 信傳媒
 * [柯文哲的網路戰是挑釁　不是作戰](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=174824) 2023-06-13 上報
 * [沒有做好「異常管理」 就會變成「危機處理」](https://www.nownews.com/news/6169724) 2023-06-14 NOWnews
