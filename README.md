@@ -74,6 +74,7 @@
 | 2023-07-04 | 上報 | [台灣需要的是防禦型步兵戰車](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=176417) |
 | 2023-07-05 | NOWnews | [四個月役期禍國殃民　侯爺既壞又笨](https://www.nownews.com/news/6188861) |
 | 2023-07-11 | 上報 | [台灣國防只會敗在自己人的「腐蝕戰」之下](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=176954) |
+| 2023-07-12 | NOWnews | [為什麼千萬不要跟國民黨密室商談？](https://www.nownews.com/news/6195446) |
 | 2023-07-13 | 信傳媒 | [選民流沙化　基本盤萎縮　勝選取決於誰拿下年輕票、空氣票](https://www.cmmedia.com.tw/home/articles/41110) |
 
 
