@@ -6,6 +6,7 @@
 - [2022](#2022)
 - [2021](#2021)
 - [2020](#2020)
+- [2019](#2019)
 
 <!-- TOC end -->
 
@@ -266,6 +267,7 @@
 
 | 日期 | 媒體 | 文章 |
 |:---:|---|---|
+| 2020-01-12 | 端傳媒 | [蔡英文大勝，國民黨下一步要怎麼走？](https://theinitium.com/article/20200112-opinion-latest-taiwan-election/) |
 | 2020-01-30 | 三立新聞網 | [病毒與口罩：喧囂聲中的一些危機處理概念](https://www.setn.com/News.aspx?NewsID=679989) |
 | 2020-02-08 | NOWnews | [肺炎疫情失控，政府做好預案嚴陣以待](https://www.nownews.com/news/3925363) |
 | 2020-02-21 | NOWnews | [吳斯懷們是怎麼養成的？](https://www.nownews.com/news/3948904) |
@@ -277,6 +279,7 @@
 | 2020-05-13 | NOWnews | [巨嬰台灣該長大了](https://www.nownews.com/news/5007210) |
 | 2020-05-19 | NOWnews | [蔡英文第二任總統的挑戰與期待](https://www.nownews.com/news/5009837) |
 | 2020-05-27 | NOWnews | [撕去香港「一國兩制」的外衣](https://www.nownews.com/news/5013097) |
+| 2020-06-07 | 端傳媒 | [敗走高雄，韓國瑜驚奇起落的政治啟示](https://theinitium.com/article/20200607-opinion-taiwan-han-mayor-recall/) |
 | 2020-06-10 | NOWnews | [危機領導人更需逆思考](https://www.nownews.com/news/5018380) |
 | 2020-06-24 | NOWnews | [兩岸買辦的前世與今生](https://www.nownews.com/news/5024061) |
 | 2020-07-08 | NOWnews | [台灣必須面對的三個戰略問題](https://www.nownews.com/news/5030017) |
@@ -293,3 +296,11 @@
 | 2020-11-25 | NOWnews | [「挑釁」的定義](https://www.nownews.com/news/5121160) |
 | 2020-12-09 | NOWnews | [歲末年終　歸零思考政黨的定位與議程](https://www.nownews.com/news/5133532) |
 | 2020-12-23 | NOWnews | [2020的三個教訓](https://www.nownews.com/news/5145856) |
+
+## 2019
+
+| 日期 | 媒體 | 文章 |
+|:---:|---|---|
+| 2019-07-02 | 端傳媒 | [韓國瑜待拆三顆彈（一）——國民黨內部整合難題](https://theinitium.com/article/20190722-opinion-clarence-wu-taiwan-han-3-tackles-to-be-solved/) |
+| 2019-07-23 | 端傳媒 | [韓國瑜待拆的三顆未爆彈（二）——信任危機及兩岸議題](https://theinitium.com/article/20190723-opinion-clarence-wu-taiwan-han-3-tackles-to-be-solved-2/) |
+| 2019-11-22 | 端傳媒 | [擺不平的國民黨不分區名單，與恐創歷史新低的政黨票](https://theinitium.com/article/20191122-opinion-kmt-legislator-at-large/) |
