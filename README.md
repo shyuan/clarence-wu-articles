@@ -1,6 +1,6 @@
 # 吳崑玉文集
 
-<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+<!-- TOC start -->
 
 - [2023](#2023)
 - [2022](#2022)
