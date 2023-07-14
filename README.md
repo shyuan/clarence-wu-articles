@@ -260,9 +260,7 @@
 * [重啟服貿貨貿　最開心的就是兩岸買辦](https://www.nownews.com/news/6182037) 2023-06-28 NOWnews
 * [台灣需要的是防禦型步兵戰車](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=176417) 2023-07-04 上報
 * [四個月役期禍國殃民　侯爺既壞又笨](https://www.nownews.com/news/6188861) 2023-07-05 NOWnews
-* []() 2023-- 上報
-* []() 2023-- 上報
-
+* [選民流沙化　基本盤萎縮　勝選取決於誰拿下年輕票、空氣票](https://www.cmmedia.com.tw/home/articles/41110) 2023-07-13 信傳媒
 
 
 
