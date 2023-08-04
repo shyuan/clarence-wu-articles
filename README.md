@@ -76,8 +76,11 @@
 | 2023-07-11 | 上報 | [台灣國防只會敗在自己人的「腐蝕戰」之下](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=176954) |
 | 2023-07-12 | NOWnews | [為什麼千萬不要跟國民黨密室商談？](https://www.nownews.com/news/6195446) |
 | 2023-07-13 | 信傳媒 | [選民流沙化　基本盤萎縮　勝選取決於誰拿下年輕票、空氣票](https://www.cmmedia.com.tw/home/articles/41110) |
-| 2023-07-19 | NOWnew | [一場被政治耽誤的居住正義活動](https://www.nownews.com/news/6202515) |
-
+| 2023-07-19 | NOWnews | [一場被政治耽誤的居住正義活動](https://www.nownews.com/news/6202515) |
+| 2023-07-25 | 上報 | [抗彈板爭議裡越演越烈的國防部公關危機](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=178037) |
+| 2023-07-26 | NOWnews | [買空賣空的XX大聯盟　永遠成不了事](https://www.nownews.com/news/6209540) |
+| 2023-08-02 | NOWnews | [內參民調不是民調，是文宣！](https://www.nownews.com/news/6216043) |
+| 2023-08-04 | 上報 | [台灣亟需發展備用通訊系統](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=178763) |
 
 ## 2022
 
