@@ -73,6 +73,7 @@
 | 2023-06-28 | NOWnews | [重啟服貿貨貿　最開心的就是兩岸買辦](https://www.nownews.com/news/6182037) |
 | 2023-07-04 | 上報 | [台灣需要的是防禦型步兵戰車](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=176417) |
 | 2023-07-05 | NOWnews | [四個月役期禍國殃民　侯爺既壞又笨](https://www.nownews.com/news/6188861) |
+| 2023-07-06 | 三立新聞網 | [賴是鈍的！柯是虛的！侯是死的！郭董是核彈級的](https://www.setn.com/News.aspx?NewsID=1319047) |
 | 2023-07-11 | 上報 | [台灣國防只會敗在自己人的「腐蝕戰」之下](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=176954) |
 | 2023-07-12 | NOWnews | [為什麼千萬不要跟國民黨密室商談？](https://www.nownews.com/news/6195446) |
 | 2023-07-13 | 信傳媒 | [選民流沙化　基本盤萎縮　勝選取決於誰拿下年輕票、空氣票](https://www.cmmedia.com.tw/home/articles/41110) |
@@ -81,6 +82,10 @@
 | 2023-07-26 | NOWnews | [買空賣空的XX大聯盟　永遠成不了事](https://www.nownews.com/news/6209540) |
 | 2023-08-02 | NOWnews | [內參民調不是民調，是文宣！](https://www.nownews.com/news/6216043) |
 | 2023-08-04 | 上報 | [台灣亟需發展備用通訊系統](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=178763) |
+| 2023-08-08 | 三立新聞網 | [中國海軍航空兵轉隸空軍！習近平戰略野心跨全球](https://www.setn.com/News.aspx?NewsID=1335034) |
+| 2023-08-09 | NOWnews | [藍營整合終究只是一場春夢](https://www.nownews.com/news/6223317) |
+| 2023-08-15 | 上報 | [「國Ｘ國造」的困境與陷阱](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=179631) |
+| 2023-08-16 | NOWnews | [失根的白藍候選人們！無法洗清髒污與號召群眾](https://www.nownews.com/news/6230153) |
 
 ## 2022
 
