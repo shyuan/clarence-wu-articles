@@ -86,6 +86,16 @@
 | 2023-08-09 | NOWnews | [藍營整合終究只是一場春夢](https://www.nownews.com/news/6223317) |
 | 2023-08-15 | 上報 | [「國Ｘ國造」的困境與陷阱](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=179631) |
 | 2023-08-16 | NOWnews | [失根的白藍候選人們！無法洗清髒污與號召群眾](https://www.nownews.com/news/6230153) |
+| 2023-08-21 | 信傳媒 | [從中國經濟急速下墜看中共軍演的虛與實](https://www.cmmedia.com.tw/home/articles/41834) |
+| 2023-08-23 | NOWnews | [三隻小豬喝咖啡　鄉音無改肉成堆](https://www.nownews.com/news/6237044) |
+| 2023-08-29 | NOWnews | [郭董真的準備好了嗎?](https://www.nownews.com/news/6242971) |
+| 2023-08-29 | 上報 | [飛彈留著嚇人更符合CP值──也談中國現在有能力在周邊生事嗎](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=180752) |
+| 2023-09-05 | NOWnews | [郭董的起床氣　顯然未理解獨立參選的SWOT](https://www.nownews.com/news/6252201) |
+| 2023-09-05 | 上報 | [巴丹島將成美軍西太平洋防線的最後一個「塞子」](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=181303) |
+| 2023-09-12 | 上報 | [國台辦是貨真價實的「理藩院」](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=181889) |
+| 2023-09-13 | NOWnews | [KP眼前的黑不是黑　你說的白是什麼白？](https://www.nownews.com/news/6259380) |
+| 2023-09-13 | 信傳媒 | [基泰大直沉陷案七大問題引爆政治效應　柯文哲、蔣萬安前後兩任市長通通逃不掉](https://www.cmmedia.com.tw/home/articles/42301) |
+
 
 ## 2022
 
