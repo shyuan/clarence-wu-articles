@@ -95,6 +95,14 @@
 | 2023-09-12 | 上報 | [國台辦是貨真價實的「理藩院」](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=181889) |
 | 2023-09-13 | NOWnews | [KP眼前的黑不是黑　你說的白是什麼白？](https://www.nownews.com/news/6259380) |
 | 2023-09-13 | 信傳媒 | [基泰大直沉陷案七大問題引爆政治效應　柯文哲、蔣萬安前後兩任市長通通逃不掉](https://www.cmmedia.com.tw/home/articles/42301) |
+| 2023-09-19 | 上報 | [2023國防展顯示的三個風向](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=182556) |
+| 2023-09-20 | NOWnews | [安安的煙花人生已畫上句點](https://www.nownews.com/news/6264740) |
+| 2023-09-26 | 上報 [別苛責消防人員　最大禍首是工廠老闆與管理者](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=183144) |
+| 2023-09-27 | NOWnews | [自戀老人們的整合幻想](https://www.nownews.com/news/6270142) |
+| 2023-10-04 | NOWnews | [綠營已開闢第二戰場　藍白卻還在下舖床戰](https://www.nownews.com/news/6274039) |
+| 2023-10-04 | 上報 | [台灣自製潛艦有五道關卡　挑戰才剛開始](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=183772) |
+| 2023-10-10 | 上報 | [哈瑪斯奇襲以色列　台灣人應該學到什麼](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=184228) |
+| 2023-10-11 | 信傳媒 | [以色列有事台灣也會有事？其實2024才是台海最危險時刻](https://www.cmmedia.com.tw/home/articles/42807) |
 
 
 ## 2022
