@@ -103,6 +103,9 @@
 | 2023-10-04 | 上報 | [台灣自製潛艦有五道關卡　挑戰才剛開始](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=183772) |
 | 2023-10-10 | 上報 | [哈瑪斯奇襲以色列　台灣人應該學到什麼](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=184228) |
 | 2023-10-11 | 信傳媒 | [以色列有事台灣也會有事？其實2024才是台海最危險時刻](https://www.cmmedia.com.tw/home/articles/42807) |
+| 2023-10-17 | 上報 | [以色列正準備打一場殘酷的俄式城鎮戰](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=184732) |
+| 2023-10-24 | 上報 | [懲罰鴻海　習近平正在演示「朝貢體制」](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=185316) |
+| 2023-11-07 | 上報 | [面對戰爭威脅　台灣人態度比政客更強硬](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=186500) |
 
 
 ## 2022
