@@ -101,6 +101,7 @@
 | 2023-09-27 | NOWnews | [自戀老人們的整合幻想](https://www.nownews.com/news/6270142) |
 | 2023-10-04 | NOWnews | [綠營已開闢第二戰場　藍白卻還在下舖床戰](https://www.nownews.com/news/6274039) |
 | 2023-10-04 | 上報 | [台灣自製潛艦有五道關卡　挑戰才剛開始](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=183772) |
+| 2023-10-06 | 三立新聞網 | [從米棉之戰到蛋蛋危機！為何演成政治危機？](https://www.setn.com/News.aspx?NewsID=1363657) |
 | 2023-10-10 | 上報 | [哈瑪斯奇襲以色列　台灣人應該學到什麼](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=184228) |
 | 2023-10-11 | 信傳媒 | [以色列有事台灣也會有事？其實2024才是台海最危險時刻](https://www.cmmedia.com.tw/home/articles/42807) |
 | 2023-10-11 | NOWnews | [草泥馬的歡樂與哀愁](https://www.nownews.com/news/6278229) |
@@ -113,6 +114,7 @@
 | 2023-11-09 | NOWnews | [撥錯算盤卻自以為精明的政治人物們](https://www.nownews.com/news/6297659) |
 | 2023-11-14 | 上報 | [博明對台灣的重要提醒──做好「拒止性嚇阻」](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=187088) |
 | 2023-11-15 | NOWnews | [仗義半為屠狗輩　負心多是讀書人](https://www.nownews.com/news/6301533) |
+| 2023-11-17 | 三立新聞網 | [老習說他沒想武統台灣！能信嗎?](https://www.setn.com/News.aspx?NewsID=1384430) |
 | 2023-11-21 | 上報 | [台灣即將面對有史以來最骯髒的一場總統選舉](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=187708) |
 | 2023-11-22 | NOWnews | [藍白合貫破了台灣政治的下限](https://www.nownews.com/news/6306300) |
 | 2023-11-28 | 上報 | [共產黨丟包柯Ｐ啟示錄](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=188345) |
@@ -120,6 +122,7 @@
 | 2023-12-05 | 上報 | [台灣不要當「藍芽」　要努力做「Wi-Fi」](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=188976) |
 | 2023-12-06 | 信傳媒 | [葛來儀文章引發的後續效應 凍結台獨黨綱能夠換來台海和平？](https://www.cmmedia.com.tw/home/articles/43837) |
 | 2023-12-06 | NOWnews | [柯P最寒冷的冬天　未必是枯木盼來的春天](https://www.nownews.com/news/6315898) |
+| 2023-12-07 | 三立新聞網 | [賴蕭穩&趙追&柯吳掰！游離票決定最後勝負](https://www.setn.com/News.aspx?NewsID=1394002) |
 | 2023-12-12 | 上報 | [還在談「回復四個月兵役」是台灣政治的悲哀](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=189506) |
 | 2023-12-13 | NOWnews | [吳少爺致區師理得論古文存廢書](https://www.nownews.com/news/6321189) |
 | 2023-12-20 | NOWnews | [違建爭議外的居住正義　誰真的用心解決？](https://www.nownews.com/news/6326458) |
