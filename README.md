@@ -111,10 +111,15 @@
 | 2023-11-01 | NOWnews | [千招萬式曬恩愛　別讓習大不開心](https://www.nownews.com/news/6292161) |
 | 2023-11-07 | 上報 | [面對戰爭威脅　台灣人態度比政客更強硬](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=186500) |
 | 2023-11-09 | NOWnews | [撥錯算盤卻自以為精明的政治人物們](https://www.nownews.com/news/6297659) |
+| 2023-11-14 | 上報 | [博明對台灣的重要提醒──做好「拒止性嚇阻」](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=187088) |
 | 2023-11-15 | NOWnews | [仗義半為屠狗輩　負心多是讀書人](https://www.nownews.com/news/6301533) |
+| 2023-11-21 | 上報 | [台灣即將面對有史以來最骯髒的一場總統選舉](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=187708) |
 | 2023-11-22 | NOWnews | [藍白合貫破了台灣政治的下限](https://www.nownews.com/news/6306300) |
+| 2023-11-28 | 上報 | [共產黨丟包柯Ｐ啟示錄](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=188345) |
 | 2023-11-29 | NOWnews | [侯康真能贏過賴蕭嗎？一個選票結構的解析](https://www.nownews.com/news/6311053) |
+| 2023-12-05 | 上報 | [台灣不要當「藍芽」　要努力做「Wi-Fi」](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=188976) |
 | 2023-12-06 | NOWnews | [柯P最寒冷的冬天　未必是枯木盼來的春天](https://www.nownews.com/news/6315898) |
+| 2023-12-12 | 上報 | [還在談「回復四個月兵役」是台灣政治的悲哀](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=189506) |
 | 2023-12-13 | NOWnews | [吳少爺致區師理得論古文存廢書](https://www.nownews.com/news/6321189) |
 | 2023-12-20 | NOWnews | [違建爭議外的居住正義　誰真的用心解決？](https://www.nownews.com/news/6326458) |
 
