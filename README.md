@@ -16,50 +16,96 @@
 
 | 日期 | 媒體 | 文章 |
 |:---:|---|---|
+| 2024-01-03 | NOWnews | [「中華民國台灣」是個誰也繞不開的頂樑柱](https://www.nownews.com/news/6336687) |
+| 2024-01-10 | NOWnews | [警報不同於通報　國家級警報發佈應審慎且分級](https://www.nownews.com/news/6342006) |
+| 2024-01-17 | NOWnews | [從希特勒到柯文哲，那些民粹領導人的行銷手法](https://www.nownews.com/news/6347816) |
 | 2024-01-17 | 上報 | [賴清德當總統的六條守則](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=192780) |
+| 2024-01-24 | NOWnews | [公民參與國會改革的曾經奇想](https://www.nownews.com/news/6352189) |
+| 2024-02-01 | NOWnews | [2024選舉顯示　台灣政治的三個「結構性變化」](https://www.nownews.com/news/6357034) |
 | 2024-02-05 | 信傳媒 | [從烏龍院到網紅院　立法院生態又將產生一次劇變](https://www.cmmedia.com.tw/home/articles/45078) |
 | 2024-02-07 | 上報 | [從M2步兵戰車打爆T90M主戰車　談台灣未來的裝甲建軍方向](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=194426) |
+| 2024-02-08 | NOWnews | [國會改革　不該改出一個克倫威爾](https://www.nownews.com/news/6361332) |
+| 2024-02-21 | NOWnews | [到底是立委諸公？還是群豬公立委？](https://www.nownews.com/news/6368056) |
 | 2024-02-21 | 上報 | [任務型後備旅在防衛作戰裡的關鍵角色](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=195213) |
 | 2024-02-27 | 上報 | [從灰色地帶到低度衝突—台灣文青太多武將太少](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=195682) |
+| 2024-02-28 | NOWnews | [當渣男搭訕渣女　便成就了新國會的協商模式](https://www.nownews.com/news/6372425) |
+| 2024-03-06 | NOWnews | [台灣民主尚未完成「從身份到契約」的轉化](https://www.nownews.com/news/6377317) |
 | 2024-03-06 | 上報 | [保住海巡　才能保住台灣](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=196270) |
 | 2024-03-12 | 上報 | [「第一擊」不是「開第一槍」](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=196735) |
+| 2024-03-13 | NOWnews | [誰來治治新科立委們的大頭病？](https://www.nownews.com/news/6382203) |
 | 2024-03-18 | 信傳媒 | [中國兩會過後....習近平想要的是一場勝利　而不是一場戰爭](https://www.cmmedia.com.tw/home/articles/45781) |
 | 2024-03-19 | 上報 | [有計算過的誠實——從美國對中國的情報戰裡學習](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=197320) |
+| 2024-03-20 | NOWnews | [太陽花十年　應再反思「貿易」的本質](https://www.nownews.com/news/6387117) |
+| 2024-03-27 | NOWnews | [人生七十才開始？老人們的政治殘念禍患無窮](https://www.nownews.com/news/6392343) |
 | 2024-03-27 | 上報 | [一張東部戰區訓練照片透露共軍戰術企圖](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=197980) |
+| 2024-04-03 | NOWnews | [國台辦所不能理解的台灣韌性社會](https://www.nownews.com/news/6397538) |
 | 2024-04-03 | 上報 | [兩皮將軍的水逆與溺水](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=198536) |
 | 2024-04-10 | 上報 | [和平沒有輸家　但不戰不和沒有了家](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=199062) |
+| 2024-04-11 | NOWnews | [哽咽終獲高評價　機關算盡換傷心](https://www.nownews.com/news/6402954) |
 | 2024-04-12 | 信傳媒 | [馬習二會 那些藏在哽咽背後的自戀與瘋狂](https://www.cmmedia.com.tw/home/articles/46245) |
 | 2024-04-16 | 上報 | [伊朗空襲以色列　台灣可以學到什麼](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=199466) |
+| 2024-04-17 | NOWnews | [政治道德的標準　該怎麼拿捏？](https://www.nownews.com/news/6407120) |
 | 2024-04-23 | 上報 | [台灣的後備戰力距離以色列有多遠？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=199972) |
+| 2024-04-24 | NOWnews | [小傅何不學學強生的艱難選擇？](https://www.nownews.com/news/6412627) |
 | 2024-04-30 | 上報 | [習近平的第一顆鈕扣　其實是最後一顆鈕扣](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=200496) |
+| 2024-05-01 | NOWnews | [送花蓮組合屋　其實是一種對台灣的羞辱](https://www.nownews.com/news/6417531) |
 | 2024-05-07 | 上報 | [蕭美琴構想中台版DARPA的理想與現實](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=200977) |
+| 2024-05-08 | NOWnews | [物極必反的政治蓋幫攪屎棍法](https://www.nownews.com/news/6422464) |
 | 2024-05-14 | 上報 | [俄軍重啟對烏克蘭攻勢的警訊與教訓](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=201482) |
+| 2024-05-15 | NOWnews | [賴團隊真正的挑戰是領導 不是政治](https://www.nownews.com/news/6427242) |
 | 2024-05-20 | 信傳媒 | [520新政治》立法院對抗不是問題  賴清德政府要做出什麼成績才是關鍵](https://www.cmmedia.com.tw/home/articles/46956) |
+| 2024-05-22 | NOWnews | [黑箱擴權只是引線　背叛與輾壓才是火藥庫](https://www.nownews.com/news/6432799) |
 | 2024-05-22 | 上報 | [輸家沒有和平　所以戰爭是不得不的最後選擇](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=202133) |
 | 2024-05-28 | 上報 | [傅崐萁與黃國昌在遮掩什麼？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=202575) |
+| 2024-05-29 | NOWnews | [來吧！就讓我們來互相傷害吧！](https://www.nownews.com/news/6437569) |
+| 2024-06-05 | NOWnews | [AI世代所將面臨的機會與挑戰](https://www.nownews.com/news/6442760) |
+| 2024-06-12 | NOWnews | [陸男闖淡水河所引發的灰色地帶應處手段問題](https://www.nownews.com/news/6447475) |
 | 2024-06-12 | 上報 | [顧立雄要如何讓陸軍這頭老牛動起來？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=203685) |
 | 2024-06-18 | 上報 | [有一種叫做「我比你大」的病](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=204121) |
+| 2024-06-19 | NOWnews | [誰說小黨一定要左右為難或搖擺求生？](https://www.nownews.com/news/6452506) |
 | 2024-06-25 | 上報 | [恐嚇是弱者表現　缺席審判坐實兩岸互不隸屬](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=204653) |
+| 2024-06-26 | NOWnews | [應對灰色地帶　需要大氣與巧勁　不是過度反應](https://www.nownews.com/news/6457604) |
+| 2024-07-03 | NOWnews | [小謝的最後一個春天](https://www.nownews.com/news/6462580) |
 | 2024-07-09 | 上報 | [官員腦袋長哪去了──洞庭湖決堤背後的中共系統性崩壞](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=205714) |
+| 2024-07-10 | NOWnews | [一個領導者的困局](https://www.nownews.com/news/6467969) |
 | 2024-07-16 | 信傳媒 | [川普遇刺》川普重回白宮幾成定局 台灣準備好了嗎？](https://www.cmmedia.com.tw/home/articles/48024) |
+| 2024-07-17 | NOWnews | [連署書貼身份證影本　是在向石器時代倒退](https://www.nownews.com/news/6473145) |
 | 2024-07-19 | 上報 | [怎麼跟川普談這筆保護費？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=206593) |
+| 2024-07-31 | NOWnews | [難道你們從政的初心就是「貪」？](https://www.nownews.com/news/6483459) |
+| 2024-08-07 | NOWnews | [只有Diss沒Discuss　只會迎來無盡的Decrease](https://www.nownews.com/news/6488860) |
 | 2024-08-13 | 上報 | [烏軍攻入俄羅斯本土的關鍵是無人機](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=208621) |
+| 2024-08-21 | NOWnews | [億五返現拚一次　阿北早棄民眾黨](https://www.nownews.com/news/6502014) |
+| 2024-08-28 | NOWnews | [柯文哲內在的崇禎性格](https://www.nownews.com/news/6508978) |
+| 2024-09-04 | NOWnews | [重新審視後柯時代的第三勢力](https://www.nownews.com/news/6515323) |
 | 2024-09-04 | 上報 | [柯文哲的「三不」不只毀壞人設　更是毀滅人格](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=210565) |
+| 2024-09-18 | NOWnews | [社會審判與司法審判的異與同](https://www.nownews.com/news/6527915) |
+| 2024-09-25 | NOWnews | [柯京光集團打造了一個什麼樣的政治文化？](https://www.nownews.com/news/6534820) |
+| 2024-10-09 | NOWnews | [推藍綠高牆、造白色巨塔　天守閣內竟是88會館](https://www.nownews.com/news/6548272) |
+| 2024-10-16 | NOWnews | [反的極限與反思](https://www.nownews.com/news/6554363) |
 | 2024-10-22 | 上報 | [邊腳料也能做到國防創新](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=214678) |
+| 2024-10-23 | NOWnews | [給被柯文哲背叛的小草們：幻滅是成長的開始](https://www.nownews.com/news/6561104) |
 | 2024-10-29 | 上報 | [民防法該修　但不是譁眾取寵式的亂修](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=215272) |
+| 2024-10-30 | NOWnews | [試擬「金科吃錢王之金華煙雲」劇本提案](https://www.nownews.com/news/6567477) |
 | 2024-11-05 | 上報 | [美國大選後台灣須面對的三種風險](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=215935) |
+| 2024-11-06 | NOWnews | [公投綁大選之前世今生](https://www.nownews.com/news/6574048) |
 | 2024-11-07 | 信傳媒 | [川普勝選是馬斯克的「黃金時代」？他重回白宮將對全球地緣政治投下震撼彈](https://www.cmmedia.com.tw/home/articles/50408) |
 | 2024-11-12 | 上報 | [台灣的保護費應該怎麼付？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=216491) |
+| 2024-11-13 | NOWnews | [權力是最好的春藥　卻總是春來了兩條虫](https://www.nownews.com/news/6581054) |
+| 2024-11-20 | NOWnews | [死了一位公務員之後？](https://www.nownews.com/news/6588007) |
 | 2024-11-20 | 上報 | [誰害怕戰爭　誰就是輸家](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=217184) |
+| 2024-11-27 | NOWnews | [蹭如瘟疫蔓延時](https://www.nownews.com/news/6594759) |
 | 2024-11-27 | 上報 | [以為來台灣會看到一個以色列　沒想到卻看到越南](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=217713) |
+| 2024-12-04 | NOWnews | [一場戒嚴鬧劇所揭示的政軍關係反思](https://www.nownews.com/news/6601100) |
 | 2024-12-05 | 上報 | [台灣的軍工產業為何始終是扶不起的阿斗](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=218460) |
+| 2024-12-11 | NOWnews | [統戰是門好生意](https://www.nownews.com/news/6607623) |
 | 2024-12-11 | 上報 | [桃機防衛的成敗關鍵](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=218962) |
 | 2024-12-17 | 上報 | [從阿塞德看一個極權體制的崩塌](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=219442) |
+| 2024-12-18 | NOWnews | [統戰是門好生意2—高級班的玩法](https://www.nownews.com/news/6613939) |
 | 2024-12-25 | 上報 | [新版《財劃法》是個超大型豬肉桶法案](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=220137) |
+| 2024-12-25 | NOWnews | [民進黨需要重修的一門戰略課](https://www.nownews.com/news/6620871) |
 
 
 
-| 2024-- | 信傳媒 |  |
 
 ## 2023
 
@@ -177,6 +223,7 @@
 | 2023-12-13 | NOWnews | [吳少爺致區師理得論古文存廢書](https://www.nownews.com/news/6321189) |
 | 2023-12-20 | NOWnews | [違建爭議外的居住正義　誰真的用心解決？](https://www.nownews.com/news/6326458) |
 | 2023-12-25 | 上報 | [文言文裡的戰爭、和平、與國家治理](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=192780)
+| 2024-12-27 | NOWnews | [2024只有棄沒有保　本盤一票不能少](https://www.nownews.com/news/6331442) |
 
 
 
@@ -413,3 +460,4 @@
 # 搜尋入口
 * [上報](https://www.upmedia.mg/search.php?sh_keyword=%E5%90%B3%E5%B4%91%E7%8E%89)
 * [信傳媒](https://www.cmmedia.com.tw/home/author/466)
+* [NOWnews](https://www.nownews.com/tag?q=%E5%90%B3%E5%B4%91%E7%8E%89)
