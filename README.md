@@ -2,6 +2,7 @@
 
 <!-- TOC start -->
 
+- [2024](#2024)
 - [2023](#2023)
 - [2022](#2022)
 - [2021](#2021)
@@ -9,6 +10,47 @@
 - [2019](#2019)
 
 <!-- TOC end -->
+
+
+## 2024
+
+| 日期 | 媒體 | 文章 |
+|:---:|---|---|
+| 2024-01-17 | 上報 | [賴清德當總統的六條守則](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=192780) |
+| 2024-02-07 | 上報 | [從M2步兵戰車打爆T90M主戰車　談台灣未來的裝甲建軍方向](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=194426) |
+| 2024-02-21 | 上報 | [任務型後備旅在防衛作戰裡的關鍵角色](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=195213) |
+| 2024-02-27 | 上報 | [從灰色地帶到低度衝突—台灣文青太多武將太少](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=195682) |
+| 2024-03-06 | 上報 | [保住海巡　才能保住台灣](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=196270) |
+| 2024-03-12 | 上報 | [「第一擊」不是「開第一槍」](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=196735) |
+| 2024-03-19 | 上報 | [有計算過的誠實——從美國對中國的情報戰裡學習](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=197320) |
+| 2024-03-27 | 上報 | [一張東部戰區訓練照片透露共軍戰術企圖](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=197980) |
+| 2024-04-03 | 上報 | [兩皮將軍的水逆與溺水](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=198536) |
+| 2024-04-10 | 上報 | [和平沒有輸家　但不戰不和沒有了家](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=199062) |
+| 2024-04-16 | 上報 | [伊朗空襲以色列　台灣可以學到什麼](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=199466) |
+| 2024-04-23 | 上報 | [台灣的後備戰力距離以色列有多遠？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=199972) |
+| 2024-04-30 | 上報 | [習近平的第一顆鈕扣　其實是最後一顆鈕扣](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=200496) |
+| 2024-05-07 | 上報 | [蕭美琴構想中台版DARPA的理想與現實](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=200977) |
+| 2024-05-14 | 上報 | [俄軍重啟對烏克蘭攻勢的警訊與教訓](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=201482) |
+| 2024-05-22 | 上報 | [輸家沒有和平　所以戰爭是不得不的最後選擇](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=202133) |
+| 2024-05-28 | 上報 | [傅崐萁與黃國昌在遮掩什麼？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=202575) |
+| 2024-06-12 | 上報 | [顧立雄要如何讓陸軍這頭老牛動起來？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=203685) |
+| 2024-06-18 | 上報 | [有一種叫做「我比你大」的病](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=204121) |
+| 2024-06-25 | 上報 | [恐嚇是弱者表現　缺席審判坐實兩岸互不隸屬](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=204653) |
+| 2024-07-09 | 上報 | [官員腦袋長哪去了──洞庭湖決堤背後的中共系統性崩壞](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=205714) |
+| 2024-07-19 | 上報 | [怎麼跟川普談這筆保護費？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=206593) |
+| 2024-08-13 | 上報 | [烏軍攻入俄羅斯本土的關鍵是無人機](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=208621) |
+| 2024-09-04 | 上報 | [柯文哲的「三不」不只毀壞人設　更是毀滅人格](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=210565) |
+| 2024-10-22 | 上報 | [邊腳料也能做到國防創新](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=214678) |
+| 2024-10-29 | 上報 | [民防法該修　但不是譁眾取寵式的亂修](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=215272) |
+| 2024-11-05 | 上報 | [美國大選後台灣須面對的三種風險](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=215935) |
+| 2024-11-12 | 上報 | [台灣的保護費應該怎麼付？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=216491) |
+| 2024-11-20 | 上報 | [誰害怕戰爭　誰就是輸家](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=217184) |
+| 2024-11-27 | 上報 | [以為來台灣會看到一個以色列　沒想到卻看到越南](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=217713) |
+| 2024-12-05 | 上報 | [台灣的軍工產業為何始終是扶不起的阿斗](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=218460) |
+| 2024-12-11 | 上報 | [桃機防衛的成敗關鍵](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=218962) |
+| 2024-12-17 | 上報 | [從阿塞德看一個極權體制的崩塌](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=219442) |
+| 2024-12-25 | 上報 | [新版《財劃法》是個超大型豬肉桶法案](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=220137) |
+
 
 
 ## 2023
@@ -126,7 +168,7 @@
 | 2023-12-12 | 上報 | [還在談「回復四個月兵役」是台灣政治的悲哀](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=189506) |
 | 2023-12-13 | NOWnews | [吳少爺致區師理得論古文存廢書](https://www.nownews.com/news/6321189) |
 | 2023-12-20 | NOWnews | [違建爭議外的居住正義　誰真的用心解決？](https://www.nownews.com/news/6326458) |
-
+| 2023-12-25 | 上報 | [文言文裡的戰爭、和平、與國家治理](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=192780)
 
 
 
