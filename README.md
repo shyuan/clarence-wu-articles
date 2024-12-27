@@ -148,7 +148,7 @@
 | 2023-10-11 | 信傳媒 | [以色列有事台灣也會有事？其實2024才是台海最危險時刻](https://www.cmmedia.com.tw/home/articles/42807) |
 | 2023-10-11 | NOWnews | [草泥馬的歡樂與哀愁](https://www.nownews.com/news/6278229) |
 | 2023-10-17 | 上報 | [以色列正準備打一場殘酷的俄式城鎮戰](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=184732) |
-| 2023-10-18 | NOWnews | [金小刀的高光時刻　正是侯友宜的黯淡開始]([https://www.nownews.com/news/6274039](https://www.nownews.com/news/6282807)) |
+| 2023-10-18 | NOWnews | [金小刀的高光時刻　正是侯友宜的黯淡開始](https://www.nownews.com/news/6282807) |
 | 2023-10-24 | 上報 | [懲罰鴻海　習近平正在演示「朝貢體制」](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=185316) |
 | 2023-10-25 | NOWnews | [誰能告訴我：我們身處一個什麼樣的時代？](https://www.nownews.com/news/6287569) |
 | 2023-11-01 | NOWnews | [千招萬式曬恩愛　別讓習大不開心](https://www.nownews.com/news/6292161) |
