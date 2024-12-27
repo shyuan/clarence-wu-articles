@@ -400,3 +400,7 @@
 | 2019-07-02 | 端傳媒 | [韓國瑜待拆三顆彈（一）——國民黨內部整合難題](https://theinitium.com/article/20190722-opinion-clarence-wu-taiwan-han-3-tackles-to-be-solved/) |
 | 2019-07-23 | 端傳媒 | [韓國瑜待拆的三顆未爆彈（二）——信任危機及兩岸議題](https://theinitium.com/article/20190723-opinion-clarence-wu-taiwan-han-3-tackles-to-be-solved-2/) |
 | 2019-11-22 | 端傳媒 | [擺不平的國民黨不分區名單，與恐創歷史新低的政黨票](https://theinitium.com/article/20191122-opinion-kmt-legislator-at-large/) |
+
+
+# 搜尋入口
+* [上報](https://www.upmedia.mg/search.php?sh_keyword=%E5%90%B3%E5%B4%91%E7%8E%89)
