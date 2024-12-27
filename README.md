@@ -17,32 +17,38 @@
 | 日期 | 媒體 | 文章 |
 |:---:|---|---|
 | 2024-01-17 | 上報 | [賴清德當總統的六條守則](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=192780) |
+| 2024-02-05 | 信傳媒 | [從烏龍院到網紅院　立法院生態又將產生一次劇變](https://www.cmmedia.com.tw/home/articles/45078) |
 | 2024-02-07 | 上報 | [從M2步兵戰車打爆T90M主戰車　談台灣未來的裝甲建軍方向](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=194426) |
 | 2024-02-21 | 上報 | [任務型後備旅在防衛作戰裡的關鍵角色](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=195213) |
 | 2024-02-27 | 上報 | [從灰色地帶到低度衝突—台灣文青太多武將太少](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=195682) |
 | 2024-03-06 | 上報 | [保住海巡　才能保住台灣](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=196270) |
 | 2024-03-12 | 上報 | [「第一擊」不是「開第一槍」](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=196735) |
+| 2024-03-18 | 信傳媒 | [中國兩會過後....習近平想要的是一場勝利　而不是一場戰爭](https://www.cmmedia.com.tw/home/articles/45781) |
 | 2024-03-19 | 上報 | [有計算過的誠實——從美國對中國的情報戰裡學習](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=197320) |
 | 2024-03-27 | 上報 | [一張東部戰區訓練照片透露共軍戰術企圖](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=197980) |
 | 2024-04-03 | 上報 | [兩皮將軍的水逆與溺水](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=198536) |
 | 2024-04-10 | 上報 | [和平沒有輸家　但不戰不和沒有了家](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=199062) |
+| 2024-04-12 | 信傳媒 | [馬習二會 那些藏在哽咽背後的自戀與瘋狂](https://www.cmmedia.com.tw/home/articles/46245) |
 | 2024-04-16 | 上報 | [伊朗空襲以色列　台灣可以學到什麼](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=199466) |
 | 2024-04-23 | 上報 | [台灣的後備戰力距離以色列有多遠？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=199972) |
 | 2024-04-30 | 上報 | [習近平的第一顆鈕扣　其實是最後一顆鈕扣](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=200496) |
 | 2024-05-07 | 上報 | [蕭美琴構想中台版DARPA的理想與現實](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=200977) |
 | 2024-05-14 | 上報 | [俄軍重啟對烏克蘭攻勢的警訊與教訓](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=201482) |
+| 2024-05-20 | 信傳媒 | [520新政治》立法院對抗不是問題  賴清德政府要做出什麼成績才是關鍵](https://www.cmmedia.com.tw/home/articles/46956) |
 | 2024-05-22 | 上報 | [輸家沒有和平　所以戰爭是不得不的最後選擇](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=202133) |
 | 2024-05-28 | 上報 | [傅崐萁與黃國昌在遮掩什麼？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=202575) |
 | 2024-06-12 | 上報 | [顧立雄要如何讓陸軍這頭老牛動起來？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=203685) |
 | 2024-06-18 | 上報 | [有一種叫做「我比你大」的病](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=204121) |
 | 2024-06-25 | 上報 | [恐嚇是弱者表現　缺席審判坐實兩岸互不隸屬](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=204653) |
 | 2024-07-09 | 上報 | [官員腦袋長哪去了──洞庭湖決堤背後的中共系統性崩壞](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=205714) |
+| 2024-07-16 | 信傳媒 | [川普遇刺》川普重回白宮幾成定局 台灣準備好了嗎？](https://www.cmmedia.com.tw/home/articles/48024) |
 | 2024-07-19 | 上報 | [怎麼跟川普談這筆保護費？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=206593) |
 | 2024-08-13 | 上報 | [烏軍攻入俄羅斯本土的關鍵是無人機](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=208621) |
 | 2024-09-04 | 上報 | [柯文哲的「三不」不只毀壞人設　更是毀滅人格](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=210565) |
 | 2024-10-22 | 上報 | [邊腳料也能做到國防創新](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=214678) |
 | 2024-10-29 | 上報 | [民防法該修　但不是譁眾取寵式的亂修](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=215272) |
 | 2024-11-05 | 上報 | [美國大選後台灣須面對的三種風險](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=215935) |
+| 2024-11-07 | 信傳媒 | [川普勝選是馬斯克的「黃金時代」？他重回白宮將對全球地緣政治投下震撼彈](https://www.cmmedia.com.tw/home/articles/50408) |
 | 2024-11-12 | 上報 | [台灣的保護費應該怎麼付？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=216491) |
 | 2024-11-20 | 上報 | [誰害怕戰爭　誰就是輸家](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=217184) |
 | 2024-11-27 | 上報 | [以為來台灣會看到一個以色列　沒想到卻看到越南](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=217713) |
@@ -52,6 +58,8 @@
 | 2024-12-25 | 上報 | [新版《財劃法》是個超大型豬肉桶法案](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=220137) |
 
 
+
+| 2024-- | 信傳媒 |  |
 
 ## 2023
 
@@ -404,3 +412,4 @@
 
 # 搜尋入口
 * [上報](https://www.upmedia.mg/search.php?sh_keyword=%E5%90%B3%E5%B4%91%E7%8E%89)
+* [信傳媒](https://www.cmmedia.com.tw/home/author/466)
