@@ -107,6 +107,7 @@
 | 2024-12-18 | NOWnews | [統戰是門好生意2—高級班的玩法](https://www.nownews.com/news/6613939) |
 | 2024-12-25 | 上報 | [新版《財劃法》是個超大型豬肉桶法案](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=220137) |
 | 2024-12-25 | NOWnews | [民進黨需要重修的一門戰略課](https://www.nownews.com/news/6620871) |
+| 2024-12-26 | SHOW NEWS 短新聞 | [機關算盡太聰明 終為他人作嫁衣](https://www.shotnews.tw/news/220eaacca9984) |
 
 
 ## 2023
