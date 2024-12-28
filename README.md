@@ -18,6 +18,7 @@
 |:---:|---|---|
 | 2024-01-03 | NOWnews | [「中華民國台灣」是個誰也繞不開的頂樑柱](https://www.nownews.com/news/6336687) |
 | 2024-01-10 | NOWnews | [警報不同於通報　國家級警報發佈應審慎且分級](https://www.nownews.com/news/6342006) |
+| 2024-01-14 | 三立新聞網 | [柯P的這一次超乎預期！但下一次並不樂觀](https://www.setn.com/News.aspx?NewsID=1413231) |
 | 2024-01-17 | NOWnews | [從希特勒到柯文哲，那些民粹領導人的行銷手法](https://www.nownews.com/news/6347816) |
 | 2024-01-17 | 上報 | [賴清德當總統的六條守則](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=192780) |
 | 2024-01-24 | NOWnews | [公民參與國會改革的曾經奇想](https://www.nownews.com/news/6352189) |
@@ -74,6 +75,7 @@
 | 2024-07-31 | NOWnews | [難道你們從政的初心就是「貪」？](https://www.nownews.com/news/6483459) |
 | 2024-08-07 | NOWnews | [只有Diss沒Discuss　只會迎來無盡的Decrease](https://www.nownews.com/news/6488860) |
 | 2024-08-13 | 上報 | [烏軍攻入俄羅斯本土的關鍵是無人機](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=208621) |
+| 2024-08-19 | 三立新聞網 | [爛帳背後…必有爛人！沒有昏君…那來佞臣？](https://www.setn.com/News.aspx?NewsID=1516774) |
 | 2024-08-21 | NOWnews | [億五返現拚一次　阿北早棄民眾黨](https://www.nownews.com/news/6502014) |
 | 2024-08-28 | NOWnews | [柯文哲內在的崇禎性格](https://www.nownews.com/news/6508978) |
 | 2024-09-04 | NOWnews | [重新審視後柯時代的第三勢力](https://www.nownews.com/news/6515323) |
@@ -81,6 +83,7 @@
 | 2024-09-18 | NOWnews | [社會審判與司法審判的異與同](https://www.nownews.com/news/6527915) |
 | 2024-09-25 | NOWnews | [柯京光集團打造了一個什麼樣的政治文化？](https://www.nownews.com/news/6534820) |
 | 2024-10-09 | NOWnews | [推藍綠高牆、造白色巨塔　天守閣內竟是88會館](https://www.nownews.com/news/6548272) |
+| 2024-- | 三立新聞網 | [川賀誰比較力挺台灣？其實是兩套冷戰戰略延伸](https://www.setn.com/News.aspx?NewsID=1546259) |
 | 2024-10-16 | NOWnews | [反的極限與反思](https://www.nownews.com/news/6554363) |
 | 2024-10-22 | 上報 | [邊腳料也能做到國防創新](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=214678) |
 | 2024-10-23 | NOWnews | [給被柯文哲背叛的小草們：幻滅是成長的開始](https://www.nownews.com/news/6561104) |
@@ -88,6 +91,7 @@
 | 2024-10-30 | NOWnews | [試擬「金科吃錢王之金華煙雲」劇本提案](https://www.nownews.com/news/6567477) |
 | 2024-11-05 | 上報 | [美國大選後台灣須面對的三種風險](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=215935) |
 | 2024-11-06 | NOWnews | [公投綁大選之前世今生](https://www.nownews.com/news/6574048) |
+| 2024-11-07 | 三立新聞網 | [軟殺？硬殺？川普如何在軍事上對付中共?](https://www.setn.com/News.aspx?NewsID=1560159) |
 | 2024-11-07 | 信傳媒 | [川普勝選是馬斯克的「黃金時代」？他重回白宮將對全球地緣政治投下震撼彈](https://www.cmmedia.com.tw/home/articles/50408) |
 | 2024-11-12 | 上報 | [台灣的保護費應該怎麼付？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=216491) |
 | 2024-11-13 | NOWnews | [權力是最好的春藥　卻總是春來了兩條虫](https://www.nownews.com/news/6581054) |
@@ -103,8 +107,6 @@
 | 2024-12-18 | NOWnews | [統戰是門好生意2—高級班的玩法](https://www.nownews.com/news/6613939) |
 | 2024-12-25 | 上報 | [新版《財劃法》是個超大型豬肉桶法案](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=220137) |
 | 2024-12-25 | NOWnews | [民進黨需要重修的一門戰略課](https://www.nownews.com/news/6620871) |
-
-
 
 
 ## 2023
@@ -461,3 +463,4 @@
 * [上報](https://www.upmedia.mg/search.php?sh_keyword=%E5%90%B3%E5%B4%91%E7%8E%89)
 * [信傳媒](https://www.cmmedia.com.tw/home/author/466)
 * [NOWnews](https://www.nownews.com/tag?q=%E5%90%B3%E5%B4%91%E7%8E%89)
+* [三立新聞網](https://www.setn.com/search.aspx) 搜尋關鍵字：吳崑玉觀點
