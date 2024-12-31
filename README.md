@@ -1,7 +1,7 @@
 # 吳崑玉文集
 
 <!-- TOC start -->
-
+- [2025](#2025)
 - [2024](#2024)
 - [2023](#2023)
 - [2022](#2022)
@@ -10,6 +10,12 @@
 - [2019](#2019)
 
 <!-- TOC end -->
+
+
+## 2025
+
+| 日期 | 媒體 | 文章 |
+|:---:|---|---|
 
 
 ## 2024
@@ -62,6 +68,7 @@
 | 2024-06-05 | NOWnews | [AI世代所將面臨的機會與挑戰](https://www.nownews.com/news/6442760) |
 | 2024-06-12 | NOWnews | [陸男闖淡水河所引發的灰色地帶應處手段問題](https://www.nownews.com/news/6447475) |
 | 2024-06-12 | 上報 | [顧立雄要如何讓陸軍這頭老牛動起來？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=203685) |
+| 2024-06-12 | 端傳媒 | [台灣國會職權修法爭議中，「青鳥行動」的誕生與藍白的失策](https://theinitium.com/opinion/20240613-opinion-taiwan-parliament-reform-controversy) |
 | 2024-06-18 | 上報 | [有一種叫做「我比你大」的病](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=204121) |
 | 2024-06-19 | NOWnews | [誰說小黨一定要左右為難或搖擺求生？](https://www.nownews.com/news/6452506) |
 | 2024-06-25 | 上報 | [恐嚇是弱者表現　缺席審判坐實兩岸互不隸屬](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=204653) |
@@ -130,6 +137,7 @@
 | 2023-02-21 | 上報 | [美國保衛台灣的戰略構想](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=166343) |
 | 2023-02-22 | NOWnews | [發言人不是什麼好差事](https://www.nownews.com/news/6061581) |
 | 2023-02-23 | 信傳媒 | [中國是全世界最希望烏克蘭戰爭繼續打下去的國家](https://www.cmmedia.com.tw/home/articles/38778) |
+| 2023-02-27 | 端傳媒 | [俄烏戰爭一週年，有哪些戰略教訓？高科技武器為何無法終結戰事？](https://theinitium.com/article/20230228-opinion-russia-ukraine-war-anniversary-analysis) |
 | 2023-02-28 | 上報 | [戰時管制媒體網路，有錯嗎？](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=166879) |
 | 2023-03-01 | NOWnews | [等待果陀，等不等果凍？](https://www.nownews.com/news/6067858) |
 | 2023-03-07 | 上報 | [《全動法》與《民防法》必須全部砍掉重練](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=167323) |
