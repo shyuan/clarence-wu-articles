@@ -90,7 +90,7 @@
 | 2024-09-18 | NOWnews | [社會審判與司法審判的異與同](https://www.nownews.com/news/6527915) |
 | 2024-09-25 | NOWnews | [柯京光集團打造了一個什麼樣的政治文化？](https://www.nownews.com/news/6534820) |
 | 2024-10-09 | NOWnews | [推藍綠高牆、造白色巨塔　天守閣內竟是88會館](https://www.nownews.com/news/6548272) |
-| 2024-- | 三立新聞網 | [川賀誰比較力挺台灣？其實是兩套冷戰戰略延伸](https://www.setn.com/News.aspx?NewsID=1546259) |
+| 2024-10-15 | 三立新聞網 | [川賀誰比較力挺台灣？其實是兩套冷戰戰略延伸](https://www.setn.com/News.aspx?NewsID=1546259) |
 | 2024-10-16 | NOWnews | [反的極限與反思](https://www.nownews.com/news/6554363) |
 | 2024-10-22 | 上報 | [邊腳料也能做到國防創新](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=214678) |
 | 2024-10-23 | NOWnews | [給被柯文哲背叛的小草們：幻滅是成長的開始](https://www.nownews.com/news/6561104) |
