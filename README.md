@@ -16,6 +16,8 @@
 
 | 日期 | 媒體 | 文章 |
 |:---:|---|---|
+| 2025-01-21 | 上報 | [國民黨立委剛剛幫自己掘好了墳墓](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=222277) |
+| 2025-02-11 | 上報 | [馬斯克大查帳對台灣政治的啟發](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=223473) |
 
 
 ## 2024
@@ -115,7 +117,7 @@
 | 2024-12-25 | 上報 | [新版《財劃法》是個超大型豬肉桶法案](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=220137) |
 | 2024-12-25 | NOWnews | [民進黨需要重修的一門戰略課](https://www.nownews.com/news/6620871) |
 | 2024-12-26 | SHOT NEWS 短新聞 | [機關算盡太聰明 終為他人作嫁衣](https://www.shotnews.tw/news/220eaacca9984) |
-
+| 2024-12-31 | 上報 | [統戰與反統戰—不要什麼都依賴政府](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=220644) |
 
 ## 2023
 
