@@ -16,8 +16,13 @@
 
 | 日期 | 媒體 | 文章 |
 |:---:|---|---|
+| 2025-01-01 | NOWnews | [有沒有這個黨主席有差嗎？](https://www.nownews.com/news/6627012) |
+| 2025-01-08 | NOWnews | [大罷免的理論與現實](https://www.nownews.com/news/6631578) |
 | 2025-01-21 | 上報 | [國民黨立委剛剛幫自己掘好了墳墓](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=222277) |
+| 2025-01-22 | NOWnews | [終究　能夠拯救台灣的還是公民社會](https://www.nownews.com/news/6638350) |
+| 2025-02-05 | NOWnews | [國民黨至今沒搞清楚　公民們的憤怒從何而來？](https://www.nownews.com/news/6642591) |
 | 2025-02-11 | 上報 | [馬斯克大查帳對台灣政治的啟發](https://www.upmedia.mg/news_info.php?Type=2&SerialNo=223473) |
+| 2025-02-12 | NOWnews | [咀嚼那些引自佛經的政治語言](https://www.nownews.com/news/6645643) |
 
 
 ## 2024
